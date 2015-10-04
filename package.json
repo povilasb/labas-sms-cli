@@ -1,0 +1,9 @@
+{
+	"name": "mano-labas-sms-cli",
+	"description": "http://mano.labas.lt CLI sms tool",
+	"dependencies": {
+		"x-ray": "~2.0.2",
+		"cookie": "~0.2.2",
+		"commander": "~2.8.1"
+	}
+}
